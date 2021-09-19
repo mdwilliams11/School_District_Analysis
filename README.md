@@ -5,7 +5,7 @@ Module 4 analysis using Anaconda, JupyterLab/Notebook, PANDAS
 
 In this challenge we’re helping Maria analyze the math and reading scores of 15 high schools. Using the NumPy and Pandas libraries in Jupyter Lab, we produced a summary of test metrics based on the various schools’ budget per student, school size, school type, and the students’ grades. The analysis removed the math and reading scores from all 9th graders from Thomas High School due to suspicions of academic dishonesty.
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results:
 
 How is the district summary affected? 
 The only change to the district summary is that the average math scores dropped from 79.0 to 78.9.
@@ -34,4 +34,5 @@ How does replacing the ninth-grade scores affect the following:
 - The average reading scores for charter schools rose from 83.896 to 83.902.
 
 These changes are extremely miniscule and suggest the omitted Thomas High School 9th grade scores were largely in line with the overall averages.
+
 
