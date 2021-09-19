@@ -7,7 +7,7 @@ In this challenge we’re helping Maria analyze the math and reading scores of 1
 
 ## Results:
 
-*How is the district summary affected? *
+*How is the district summary affected?*
 
 The only change to the district summary is that the average math scores dropped from 79.0 to 78.9.
 
@@ -21,21 +21,21 @@ The Thomas High School overall passing percentage dropped from 90.95% to 90.63%.
  
 *How does replacing the ninth-grade scores affect the following:*
 
-	- *Math and reading scores by grade*
+*Math and reading scores by grade*
 	
-		- All of the math and reading scores for other schools, and for Thomas High School’s 10-12th graders, are unaffected.
+	- All of the math and reading scores for other schools, and for Thomas High School’s 10-12th graders, are unaffected.
 		
-	- *Scores by school spending*
+*Scores by school spending*
 	
-		- The math and reading scores by spending ranges are virtually unchanged.
+	- The math and reading scores by spending ranges are virtually unchanged.
 		
-	- *Scores by school size*
+*Scores by school size*
 	
-		- The math and reading scores by spending ranges are virtually unchanged.
+	- The math and reading scores by spending ranges are virtually unchanged.
 		
-	- *Scores by school type*
+*Scores by school type*
 	
-		- The changes to Thomas High School, a charter school, barely changed the average math and reading scores for charter schools. The averages for district schools remain unchanged.
+	- The changes to Thomas High School, a charter school, barely changed the average math and reading scores for charter schools. The averages for district schools remain unchanged.
 
 ## Summary:
 
