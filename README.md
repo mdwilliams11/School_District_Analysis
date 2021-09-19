@@ -12,10 +12,10 @@ In this challenge we’re helping Maria analyze the math and reading scores of 1
 The only change to the district summary is that the average math scores dropped from 79.0 to 78.9.
 
 Here is the District Summary after removing the 9th grade scores from Thomas High School:
-![District_Summary_Challenge](https://raw.githubusercontent.com/mdwilliams11/School_District_Analysis/main/Resources/District Summary Challenge.png)
+![District_Summary_Challenge](https://raw.githubusercontent.com/mdwilliams11/School_District_Analysis/main/Resources/District_Summary_Challenge.png)
 
 Here is the original district summary from the module 4 exercises:
-![District_Summary_Challenge](https://raw.githubusercontent.com/mdwilliams11/School_District_Analysis/main/Resources/District Summary Module 4 Original.png)
+![District_Summary_Challenge](https://raw.githubusercontent.com/mdwilliams11/School_District_Analysis/main/Resources/District_Summary_Module_4_Original.png)
 
 
 *How is the school summary affected?*
