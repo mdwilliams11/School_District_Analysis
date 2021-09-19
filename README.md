@@ -5,8 +5,6 @@ Module 4 analysis using Anaconda, JupyterLab/Notebook, PANDAS
 
 In this challenge we’re helping Maria analyze the math and reading scores of 15 high schools. Using the NumPy and Pandas libraries in Jupyter Lab, we produced a summary of test metrics based on the various schools’ budget per student, school size, school type, and the students’ grades. The analysis removed the math and reading scores from all 9th graders from Thomas High School due to suspicions of academic dishonesty.
 
-The analy
-
 ## Results:
 
 *How is the district summary affected?*
