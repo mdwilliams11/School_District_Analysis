@@ -5,11 +5,20 @@ Module 4 analysis using Anaconda, JupyterLab/Notebook, PANDAS
 
 In this challenge we’re helping Maria analyze the math and reading scores of 15 high schools. Using the NumPy and Pandas libraries in Jupyter Lab, we produced a summary of test metrics based on the various schools’ budget per student, school size, school type, and the students’ grades. The analysis removed the math and reading scores from all 9th graders from Thomas High School due to suspicions of academic dishonesty.
 
+The analy
+
 ## Results:
 
 *How is the district summary affected?*
 
 The only change to the district summary is that the average math scores dropped from 79.0 to 78.9.
+
+Here is the District Summary after removing the 9th grade scores from Thomas High School:
+![District_Summary_Challenge](https://raw.githubusercontent.com/mdwilliams11/School_District_Analysis/main/Resources/District Summary Challenge.png)
+
+Here is the original district summary from the module 4 exercises:
+![District_Summary_Challenge](https://raw.githubusercontent.com/mdwilliams11/School_District_Analysis/main/Resources/District Summary Module 4 Original.png)
+
 
 *How is the school summary affected?*
 
