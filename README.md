@@ -7,30 +7,44 @@ In this challenge we’re helping Maria analyze the math and reading scores of 1
 
 ## Results:
 
-How is the district summary affected? 
+*How is the district summary affected? *
+
 The only change to the district summary is that the average math scores dropped from 79.0 to 78.9.
 
-How is the school summary affected?
+*How is the school summary affected?*
+
 All of the schools other than Thomas High School are unaffected by the omission of the Thomas High School 9th graders. The 
  
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+*How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?*
+
 The Thomas High School overall passing percentage dropped from 90.95% to 90.63%. Removing the 9th grade math and reading scores does not affect Thomas High School’s ranking as the 2nd highest performing school.
  
-How does replacing the ninth-grade scores affect the following:
-	- Math and reading scores by grade
+*How does replacing the ninth-grade scores affect the following:*
+
+	- *Math and reading scores by grade*
+	
 		- All of the math and reading scores for other schools, and for Thomas High School’s 10-12th graders, are unaffected.
-	- Scores by school spending
+		
+	- *Scores by school spending*
+	
 		- The math and reading scores by spending ranges are virtually unchanged.
-	- Scores by school size
+		
+	- *Scores by school size*
+	
 		- The math and reading scores by spending ranges are virtually unchanged.
-	- Scores by school type
+		
+	- *Scores by school type*
+	
 		- The changes to Thomas High School, a charter school, barely changed the average math and reading scores for charter schools. The averages for district schools remain unchanged.
 
 ## Summary:
 
 - The average math score for Medium-sized schools drops from 83.37 to 83.36
+
 - The average reading score for medium-sized schools rises from 83.86 to 83.87.
+
 - The average math scores for charter schools fell from 83.474 to 83.465
+
 - The average reading scores for charter schools rose from 83.896 to 83.902.
 
 These changes are extremely miniscule and suggest the omitted Thomas High School 9th grade scores were largely in line with the overall averages.
