@@ -23,19 +23,19 @@ The Thomas High School overall passing percentage dropped from 90.95% to 90.63%.
 
 *Math and reading scores by grade*
 	
-	- All of the math and reading scores for other schools, and for Thomas High School’s 10-12th graders, are unaffected.
+- All of the math and reading scores for other schools, and for Thomas High School’s 10-12th graders, are unaffected.
 		
 *Scores by school spending*
 	
-	- The math and reading scores by spending ranges are virtually unchanged.
+- The math and reading scores by spending ranges are virtually unchanged.
 		
 *Scores by school size*
 	
-	- The math and reading scores by spending ranges are virtually unchanged.
+- The math and reading scores by spending ranges are virtually unchanged.
 		
 *Scores by school type*
 	
-	- The changes to Thomas High School, a charter school, barely changed the average math and reading scores for charter schools. The averages for district schools remain unchanged.
+- The changes to Thomas High School, a charter school, barely changed the average math and reading scores for charter schools. The averages for district schools remain unchanged.
 
 ## Summary:
 
